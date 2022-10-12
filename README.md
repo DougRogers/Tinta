@@ -19,8 +19,8 @@ Untested areas:
 
 You can support this project by donation or clicking on the ad.
 
-About the ad:
-  To support the development of Tinta, I have placed ads in Tinta.  I have endeavoured to make them as unobtrusive as possible.  You can support Tinta development by click on the ad and visiting a sponsor.  Tinta is free and always will be, the ads are just to cover development.
+About the ads:
+  To support the development of Tinta, I have placed ads in Tinta.  I have endeavoured to make them as unobtrusive as possible.  You can support Tinta development by clicking on the ads and visiting a sponsor.  Tinta is free and always will be, the ads are just to cover development.
   
 
 
